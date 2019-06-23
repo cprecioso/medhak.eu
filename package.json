@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "less": "^3.9.0",
+    "parcel-bundler": "^1.12.3"
+  }
+}
